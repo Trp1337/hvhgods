@@ -3,14 +3,6 @@ const nameData = {
       title: 'Trp',
       content: '@gng.',
     },
-    Lucki: {
-      title: 'Lucki',
-      content: '@networkthief',
-    },
-    Linemaster: {
-      title: 'Linemaster',
-      content: '@networkcriminal',
-    },
 };
 const nameLinks = document.querySelectorAll('.names a');
 nameLinks.forEach(link => {
